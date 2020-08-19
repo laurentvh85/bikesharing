@@ -29,11 +29,19 @@ Unfortunately we are too late to the game, and a competitor has already cornered
 While having a Citibike version sounds like an interesting investment opportunity, we are simply too late. The demographics are somewhat similar in terms of age and sex, the weather is the same, and there are plenty of bike lanes. I would pass on the opportunity as the market is simply too small. A population of 200,000+ and such low density probably does not make sense. A very important piece of information that we are missing from Citibike is how many unique subscribers it has. Subscribers get an alloted amount of time for free each ride, if they do not go over, then they only collect the monthly/yearly fee. It is irrelevant how many rides get taken a month if the majority are short and by subscribers. If we knew the monthly unique subscriber payments, then we can get a better idea. There are many citibike users that use the bikes 4x+ a day for short journeys that would not incrementally make us any money.
 
 sources:
+
 https://www.census.gov/quickfacts/desmoinescityiowa
+
 https://www.catchdesmoines.com/things-to-do/
+
 https://desmoines.bcycle.com/station-map
+
 https://iowadot.gov/maps/msp/pdf/dmtrl.pdf
+
 https://www.geostat.org/data/des-moines-ia/commute
+
 http://www.nycbikemaps.com/maps/nyc-bike-map/
+
 https://iowadot.gov/iowabikes/bikemap/home.aspx
+
 New York and Des Moines McDonald's dataset
